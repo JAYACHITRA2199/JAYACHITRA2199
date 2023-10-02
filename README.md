@@ -9,7 +9,7 @@ preview
 
 - 🌱 I’m complted BE CSE ,Edubrige in data analyastics 
 
--  * Iam Working in frontend developer in piccosoftware pvt itd Tv malai
+  
 
 - 💬 Ask me about **She/Her**
 
